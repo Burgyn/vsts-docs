@@ -13,5 +13,7 @@
     #tags: # Optional
     #artifact: # Optional
     #patterns: '**' # Optional
-    #path: '$(Pipeline.Workspace)' 
+    #path: '$(Pipeline.Workspace)'
+    #includeRootFolder: true
+    #replaceExistingArchive: true 
 ```
